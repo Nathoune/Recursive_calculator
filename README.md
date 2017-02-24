@@ -10,7 +10,7 @@ Need Add :
 - Priority handler
 - Other binary operators (only +,-,*,/)
 - operateurs unaires / ternaires
-
+- English translation
 
 
 
