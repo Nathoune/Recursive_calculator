@@ -12,7 +12,7 @@ To Add :
 
 
 Last modifications :
-24/02/17 : 	Rédaction des fonctions isol_parenthese, calcul et char_to_float (décomposition du programme)
+24/02/17 : 	Rédaction des fonctions isol_brackets, calcul et char_to_float (décomposition du programme)
 			Ajout de gestion des virgules/points
 			Arrondi du résultat à la 3ème décimale + troncature de l'affichage à la 3ème décimale
 20/02/17 : 	Ajout des opérateurs * et /
