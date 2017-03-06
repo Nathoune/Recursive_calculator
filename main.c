@@ -60,7 +60,7 @@ float calc_rec(char* string);
 float calc_rec(char* string){
 	float res1, res2, res;
 	int nbc1, nbc2;
-	char* stringInter=calloc(1,1);
+	char* stringInter=(char*)calloc(1,1);
 
 
 /*////////////////////////////////
